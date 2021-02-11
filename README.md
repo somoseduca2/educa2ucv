@@ -1,16 +1,37 @@
-### Hi there 👋
+# Bienvenido a [Educa2][website] 📚
 
-<!--
-**educa2ucv/educa2ucv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/educa2ucv?color=%237acbcd&label=%40educa2ucv&logo=twitter&style=for-the-badge)][twitter]
 
-Here are some ideas to get you started:
+[<img src="./Banner.png"/>][website]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 👨‍🏫 ¡Domina las Matemáticas y Programación! 👩‍🏫
+
+- ✏️ Clases y Cursos para ti
+- 🎓 #programacion y #matematica
+- 🧠 Aprende cada día junto a nosotros
+- ➡️ [¡INICIA YA!][website] 
+
+
+---
+
+## 🖥️ Nuestros Cursos 👨‍💻
+
+<img align="left" alt="HTML5" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+
+<img align="left" alt="CSS3" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+<img align="left" alt="Python" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+<img align="left" alt="JavaScript" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img align="left" alt="Git" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<br />
+
+---
+
+
+<!-- Enlaces -->
+[website]: https://educa2.net/
+[twitter]: https://twitter.com/educa2ucv/
