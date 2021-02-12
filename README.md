@@ -44,6 +44,7 @@
 - [¿Por qué aprender CSS? - Ejemplo](https://www.youtube.com/watch?v=lJLm4igIXMg)
 <!-- YT:END -->
 
+➡️ [Más vídeos...][yt]
 
 <!-- Enlaces -->
 [website]: https://educa2.net/
@@ -55,3 +56,4 @@
 [js]: https://educa2.net/cursos/curso-javascript/
 [py]: https://educa2.net/cursos/curso-python/
 [git]: https://educa2.net/cursos/curso-git/
+[yt]: https://www.youtube.com/channel/UCTiZtMscfymnQ7tWx2dE8Dg?sub_confirmation=1
