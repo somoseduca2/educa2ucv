@@ -1,6 +1,7 @@
 # Bienvenido a [Educa2][website] 📚
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/educa2ucv?color=%237acbcd&label=%40educa2ucv&logo=twitter&style=for-the-badge)][twitter]
+![GitHub followers](https://img.shields.io/github/followers/educa2ucv?color=%23229395&label=GitHub&logo=github&logoColor=%23fff&style=for-the-badge)
 
 [<img src="./Banner.png"/>][website]
 
