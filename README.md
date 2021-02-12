@@ -1,7 +1,8 @@
 # Bienvenido a [Educa2][website] 📚
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/educa2ucv?color=%237acbcd&label=%40educa2ucv&logo=twitter&style=for-the-badge)][twitter]
-![GitHub followers](https://img.shields.io/github/followers/educa2ucv?color=%23229395&label=GitHub&logo=github&logoColor=%23fff&style=for-the-badge)
+[![Discord](https://img.shields.io/discord/754135675523039322?color=%237acbcd&label=Discord&logo=Discord&logoColor=%23fff&style=for-the-badge)][discord]
+[![GitHub followers](https://img.shields.io/github/followers/educa2ucv?color=%23229395&label=GitHub&logo=github&logoColor=%23fff&style=for-the-badge)][github]
 
 [<img src="./Banner.png"/>][website]
 
@@ -36,3 +37,5 @@
 <!-- Enlaces -->
 [website]: https://educa2.net/
 [twitter]: https://twitter.com/educa2ucv/
+[discord]: https://discord.gg/Xn4RnfkjcZ
+[github]: https://github.com/educa2ucv
