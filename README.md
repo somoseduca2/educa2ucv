@@ -37,11 +37,11 @@
 ## 🎥 Suscribete a nuestro canal en YouTube 
 
 <!-- YT:START -->
-- [Efectos 3D con JavaScript vanilla paso a paso + Descarga gratuita [2021]](https://www.youtube.com/watch?v=8F3_hzopNic)
-- [Como ganar dinero con Html y Css [2021]](https://www.youtube.com/watch?v=QXfti2KnS7Y)
-- [javascript funciones flecha [2021]](https://www.youtube.com/watch?v=m9PsxIAPFzM)
-- [Lazy loading consigue +90 en performance (como usarlo fácil en 2021)](https://www.youtube.com/watch?v=9ZiVYdwnXIQ)
-- [Validar formulario con javascript (descarga gratuita)](https://www.youtube.com/watch?v=OwdYwteGt2U)
+- [APRENDE CON ALE #1 - ¿PARA QUÉ SIRVEN LOS DIAGRAMAS DE CLASES?](https://www.youtube.com/watch?v=DmSRWWigl2Y)
+- [GENERADOR DE COLORES | HTML + CSS + JAVASCRIPT](https://www.youtube.com/watch?v=3B4GTa5ZQIY)
+- [Desarrolla tu primer carrusel de imágenes | HTML + CSS + JS](https://www.youtube.com/watch?v=TTIWXH917Vg)
+- [¡Inicia hoy! - Elige tu primer lenguaje de programación (RECOMENDACIÓN)](https://www.youtube.com/watch?v=StuHilYYFrc)
+- [¿Por qué aprender CSS? - Ejemplo](https://www.youtube.com/watch?v=lJLm4igIXMg)
 <!-- YT:END -->
 
 
