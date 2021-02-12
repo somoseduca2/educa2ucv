@@ -1,8 +1,10 @@
-name: Últimos vídeos en YouTube
+name: Latest YouTube Videos
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest YouTube Videos
@@ -12,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: 'YT'
-          feed_list: "https://wwww.youtube.com/feeds/videos.xml?channel_id=UCTiZtMscfymnQ7tWx2dE8Dg"
+          feed_list: 'https://www.youtube.com/feeds/videos.xml?channel_id=UC9tcfsScui3S70hp_wC_EPw'
