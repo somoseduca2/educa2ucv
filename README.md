@@ -19,19 +19,25 @@
 
 ## 🖥️ Nuestros Cursos 👨‍💻
 
-<img align="left" alt="HTML5" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+[<img align="left" alt="HTML5" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 
-<img align="left" alt="CSS3" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+[<img align="left" alt="CSS3" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 
-<img align="left" alt="Python" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+[<img align="left" alt="JavaScript" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 
-<img align="left" alt="JavaScript" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+[<img align="left" alt="Python" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][py]
 
-<img align="left" alt="Git" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+[<img align="left" alt="Git" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 
 <br />
 
 ---
+
+## 🎥 Suscribete a nuestro canal en YouTube 
+
+<!-- YT:START -->
+<!-- YT:END -->
 
 
 <!-- Enlaces -->
@@ -39,3 +45,8 @@
 [twitter]: https://twitter.com/educa2ucv/
 [discord]: https://discord.gg/Xn4RnfkjcZ
 [github]: https://github.com/educa2ucv
+[css]: https://educa2.net/cursos/curso-css/
+[html]: https://educa2.net/cursos/curso-html/
+[js]: https://educa2.net/cursos/curso-javascript/
+[py]: https://educa2.net/cursos/curso-python/
+[git]: https://educa2.net/cursos/curso-git/
