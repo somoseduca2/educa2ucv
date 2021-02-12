@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/educa2ucv?color=%237acbcd&label=%40educa2ucv&logo=twitter&style=for-the-badge)][twitter]
 
-[<img src="./Banner.png" style="border-radius: 5px;"/>][website]
+[<img src="./Banner.png"/>][website]
 
 
 ## 👨‍🏫 ¡Domina las Matemáticas y Programación! 👩‍🏫
