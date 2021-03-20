@@ -37,11 +37,11 @@
 ## 🎥 Suscribete a nuestro canal en YouTube 
 
 <!-- YT:START -->
+- [VECTORIZACIÓN DE IMAGEN | Adobe Illustrator (Fast Motion)](https://www.youtube.com/watch?v=NCSSY9Xlnks)
 - [APRENDE CON ALE #1 - ¿PARA QUÉ SIRVEN LOS DIAGRAMAS DE CLASES?](https://www.youtube.com/watch?v=DmSRWWigl2Y)
 - [GENERADOR DE COLORES | HTML + CSS + JAVASCRIPT](https://www.youtube.com/watch?v=3B4GTa5ZQIY)
 - [Desarrolla tu primer carrusel de imágenes | HTML + CSS + JS](https://www.youtube.com/watch?v=TTIWXH917Vg)
 - [¡Inicia hoy! - Elige tu primer lenguaje de programación (RECOMENDACIÓN)](https://www.youtube.com/watch?v=StuHilYYFrc)
-- [¿Por qué aprender CSS? - Ejemplo](https://www.youtube.com/watch?v=lJLm4igIXMg)
 <!-- YT:END -->
 
 ➡️ [Más vídeos...][yt]
