@@ -37,8 +37,8 @@
 ## 🎥 Suscribete a nuestro canal en YouTube 
 
 <!-- YT:START -->
-- [02 - Guía Rápida (Python), instalación de programas](https://www.youtube.com/watch?v=iBitBfC9lnA)
-- [01 - Guía Rápida (Python), ¿por qué Python?](https://www.youtube.com/watch?v=6UlkhK5_2y4)
+- [02 - Guía Rápida (Python) - Instalación de programas](https://www.youtube.com/watch?v=iBitBfC9lnA)
+- [01 - Guía Rápida (Python) - ¿Por qué Python?](https://www.youtube.com/watch?v=6UlkhK5_2y4)
 - [Vectorización de imagen (Dragon Ball Z) - Adobe Illustrator (Fast Motion)](https://www.youtube.com/watch?v=hNcdWuhUW2g)
 - [DISEÑO DE INTERFAZ DE USUARIO | Adobe XD (Fast Motion)](https://www.youtube.com/watch?v=9YJBVGNL8q8)
 - [VECTORIZACIÓN DE IMAGEN | Adobe Illustrator (Fast Motion)](https://www.youtube.com/watch?v=NCSSY9Xlnks)
