@@ -37,11 +37,11 @@
 ## 🎥 Suscribete a nuestro canal en YouTube 
 
 <!-- YT:START -->
+- [09 - Guía Rápida (Python) - Ejercicio práctico #04](https://www.youtube.com/watch?v=DTaN08f0-LU)
 - [08 - Guía Rápida (Python) - Ciclos](https://www.youtube.com/watch?v=ThLawuIGFlk)
 - [07 - Guía Rápida (Python) - Ejercicio práctico #03](https://www.youtube.com/watch?v=Q85ZZx64pIw)
 - [06 - Guía Rápida (Python) - Condicionales](https://www.youtube.com/watch?v=EsOI7mwX_CE)
 - [05 - Guía Rápida (Python) - Ejercicio práctico #01](https://www.youtube.com/watch?v=_xd1i7OvisQ)
-- [04 - Guía Rápida (Python) - Operaciones elementales](https://www.youtube.com/watch?v=lMq65nJUsmU)
 <!-- YT:END -->
 
 ➡️ [Más vídeos...][yt]
