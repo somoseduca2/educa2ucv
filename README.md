@@ -37,11 +37,11 @@
 ## 🎥 Suscribete a nuestro canal en YouTube 
 
 <!-- YT:START -->
+- [Desarrolla un SLIDER ESPECIAL | HTML + CSS + JS](https://www.youtube.com/watch?v=RRgU2T98CM4)
 - [10 - Guía Rápida (Python) - Ejercicio práctico #05](https://www.youtube.com/watch?v=IvNl4umeN04)
 - [09 - Guía Rápida (Python) - Ejercicio práctico #04](https://www.youtube.com/watch?v=DTaN08f0-LU)
 - [08 - Guía Rápida (Python) - Ciclos](https://www.youtube.com/watch?v=ThLawuIGFlk)
 - [07 - Guía Rápida (Python) - Ejercicio práctico #03](https://www.youtube.com/watch?v=Q85ZZx64pIw)
-- [06 - Guía Rápida (Python) - Condicionales](https://www.youtube.com/watch?v=EsOI7mwX_CE)
 <!-- YT:END -->
 
 ➡️ [Más vídeos...][yt]
